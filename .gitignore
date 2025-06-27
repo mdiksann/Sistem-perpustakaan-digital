@@ -1,16 +1,3 @@
-# Node.js modules
 /node_modules/
 package-lock.json
-
-# Compiled Tailwind CSS output
 /css/style.css
-
-# Environment variables (sensitive data)
-.env
-
-# IDE and OS generated files
-.vscode/
-.idea/
-*.log
-.DS_Store # macOS specific
-Thumbs.db # Windows specific
